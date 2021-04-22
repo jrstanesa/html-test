@@ -1,2 +1,2 @@
 # html-test
-testing for the Python course
+Learning about CSS and styling as part of the Python course.
